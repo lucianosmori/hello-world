@@ -7,3 +7,5 @@ Local commit
 
 New branch
 	commit in new branch
+	
+new edit
