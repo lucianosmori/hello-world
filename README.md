@@ -6,3 +6,4 @@ Local commit
 
 New branch
 	commit in new branch
+		otro local commit en branch
